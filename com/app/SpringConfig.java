@@ -15,7 +15,7 @@ import org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBea
 
 
 @Configuration
-public class AppConfig {
+public class SpringConfig {
 
 	@Bean
 	public DataSource dsobj() {
